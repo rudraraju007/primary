@@ -14,7 +14,7 @@ import javax.ws.rs.core.MediaType;
 
 import org.raju.java.messenger.model.Profile;
 import org.raju.java.messenger.service.ProfileService;
-
+// this is a profile resource
 
 @Path("/profiles")
 @Consumes(MediaType.APPLICATION_JSON)

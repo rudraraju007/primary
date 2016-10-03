@@ -25,6 +25,7 @@ import org.raju.java.messenger.exception.DataNotFoundException;
 import org.raju.java.messenger.model.ErrorMessage;
 import org.raju.java.messenger.model.Message;
 import org.raju.java.messenger.service.MessageService;
+// this is a message resource
 
 @Path("/messages")
 public class MessageResource {
