@@ -1,5 +1,5 @@
 package org.raju.java.messenger.exception;
-
+// this is datanotfoundexception 
 public class DataNotFoundException extends RuntimeException {
 
 	/**

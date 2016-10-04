@@ -1,5 +1,5 @@
 package org.raju.java.messenger.exception;
-
+// this is mapper class
 import javax.ws.rs.core.Response;
 import javax.ws.rs.core.Response.Status;
 import javax.ws.rs.ext.ExceptionMapper;
